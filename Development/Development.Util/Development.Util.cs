@@ -2,7 +2,7 @@
 
 namespace Development.Util
 {
-    public class Class1
+    public class Development_Util
     {
     }
 }
