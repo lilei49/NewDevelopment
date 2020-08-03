@@ -45,6 +45,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Development.Util\Development.Util.csproj">
       <Project>{4ab80c8e-bfe9-496b-a5c4-39ebe62c227b}</Project>
       <Name>Development.Util</Name>
