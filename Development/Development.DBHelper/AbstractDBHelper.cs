@@ -23,7 +23,7 @@ namespace Development.DBHelper
             catch (Exception ex)
             {
                 Close();
-                Message_Util
+                
             }
             finally
             {
